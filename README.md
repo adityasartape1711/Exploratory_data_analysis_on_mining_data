@@ -27,7 +27,7 @@ MiningProcessFlotationPlantAnalysis/ │ ├── data/ │ └── MiningPro
 # List of dependencies for the project └── README.md 
 # Project description and instructions
 
-#Results
+**Results**
 The analysis reveals several insights, including:
 
 Visual trends of iron and silica concentrations over time.
@@ -36,7 +36,7 @@ Identification of optimal conditions for maximizing production efficiency.
 Statistical correlations between various operational parameters.
 
 
-Future Improvements
+**Future Improvements**
 Data Expansion: Collect more extensive datasets over longer periods for a broader analysis.
 Predictive Modeling: Develop machine learning models to forecast production outcomes based on input parameters.
 Advanced Visualization: Implement interactive visualizations using libraries like Plotly or Bokeh for enhanced user engagement.
