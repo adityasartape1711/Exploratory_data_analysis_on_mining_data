@@ -23,11 +23,12 @@ This project utilizes a dataset containing various parameters affecting the flot
 
 ## Project Structure
 MiningProcessFlotationPlantAnalysis/ │ ├── data/ │ └── MiningProcess_Flotation_Plant_Database.csv 
-# Dataset used for analysis │ ├── notebooks/ │ └──
-# List of dependencies for the project └── README.md 
-# Project description and instructions
+Dataset used for analysis │ ├── notebooks/ │ └──
+List of dependencies for the project └── README.md 
+Project description and instructions
 
 **Results**
+
 The analysis reveals several insights, including:
 
 Visual trends of iron and silica concentrations over time.
@@ -37,8 +38,12 @@ Statistical correlations between various operational parameters.
 
 
 **Future Improvements**
-Data Expansion: Collect more extensive datasets over longer periods for a broader analysis.
-Predictive Modeling: Develop machine learning models to forecast production outcomes based on input parameters.
-Advanced Visualization: Implement interactive visualizations using libraries like Plotly or Bokeh for enhanced user engagement.
-Deployment: Consider deploying the analysis as a web application or dashboard to make insights easily accessible to stakeholders
+
+- Data Expansion: Collect more extensive datasets over longer periods for a broader analysis.
+
+- Predictive Modeling: Develop machine learning models to forecast production outcomes based on input parameters.
+
+- Advanced Visualization: Implement interactive visualizations using libraries like Plotly or Bokeh for enhanced user engagement.
+  
+- Deployment: Consider deploying the analysis as a web application or dashboard to make insights easily accessible to stakeholders
 
